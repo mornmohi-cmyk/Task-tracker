@@ -1,2 +1,2 @@
 # Task-trucker
-C# console expense tracker — add expenses, categorize, calculate totals.
+C# console task manager with json persistence, built on a phon
